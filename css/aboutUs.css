@@ -18,17 +18,17 @@
 /*   promise   */
 
 .promise{
-    position: relative;
-    margin:auto;
-    padding:40px;
-    width:360px;
-    height:150px;
-    text-align: center;
+  position: relative;
+      margin: auto;
+      padding: 40px;
+      width: 400px;
+      height: 150px;
+      text-align: center;
 }
 .promise > img{
-    position:absolute;
-    width:80px;
-    left:44px;
+  position: absolute;
+  width: 80px;
+  left: 72px;
 }
 
 .promise>h2{
@@ -37,7 +37,7 @@
     margin-top: 10px;
     font-weight: 800;
     line-height: 40px;
-    
+
 }
 .promise>hr{
     margin:20px auto;
@@ -150,21 +150,3 @@
     margin-left: 20%;
     font-weight: 500;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
